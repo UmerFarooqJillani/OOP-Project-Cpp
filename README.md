@@ -5,11 +5,11 @@ University Management System in C++ to add, remove, search, and display students
 
 
 ## **🚀 Features**
-- **add, remove, search, and display the objects**  
+- **Add, Remove, Search, and Display the Objects**  
 - **Object-Oriented Programming (OOP) concepts**  
-- **user-friendly CLI**
+- **User-Friendly CLI**
 
-## **📜 Language Used**
+## **📜 Language used**
 - **C++**
 
 ## **📸 Screenshots**
