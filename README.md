@@ -13,7 +13,7 @@ University Management System in C++ to add, remove, search, and display students
 - **C++**
 
 ## **📸 Screenshots**
-<p align="center">User-Friendly CLI</p>
+**<p align="center">User-Friendly CLI</p>**
 <img src="src/images/CLI.png" alt="Example Image">
 
 ## **Author**
